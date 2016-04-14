@@ -22,20 +22,28 @@ Dnipropetrovsk — Fabruary 2016 - Present day
 
 ## Dnipropetrovsk Radio Building College 
 **Junior Bachelor's Degree - 2013**
+
+> Faculty of Information Technology
                                                                                                          
 > Maintenance and repair of computer systems and networks.
+
 > Graduated with honors.
 
 ## National Mining University
 **Bachelor’s degree - 2015**
                                                                                                          
-> Faculty of Information Technology.Software development.
+> Faculty of Information Technology
+
+> Software development
+
 > Graduated with honors
 
 ## National Mining University
 **Master’s Degree — 2016**
                                                                                                          
-> Faculty of Law.Pedagogy of High School.
+> Faculty of Law
+
+> Pedagogy of High School
 
 # PROJECTS
 
