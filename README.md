@@ -39,7 +39,7 @@ Dnipropetrovsk — Fabruary 2016 - Present day
 
 # PROJECTS
 
-[Simple task manager(ROR)](https://github.com/DenKey/task_manager_kryukov)
-[Simple game gem(Ruby)](https://github.com/DenKey/dk_codebreaker)
-[Console for dk_codebreaker(Ruby)](https://github.com/DenKey/codebreaker_console)
-[Lazarsender(PHP)](https://github.com/DenKey/lazarsender)
++ [Simple task manager(ROR)](https://github.com/DenKey/task_manager_kryukov)
++ [Simple game gem(Ruby)](https://github.com/DenKey/dk_codebreaker)
++ [Console for dk_codebreaker(Ruby)](https://github.com/DenKey/codebreaker_console)
++ [Lazarsender(PHP)](https://github.com/DenKey/lazarsender)
