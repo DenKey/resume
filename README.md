@@ -1,7 +1,7 @@
 # Welcome to my home page
 ![I am visitor on KharkivItNonStop2015](https://cloud.githubusercontent.com/assets/9421428/14539691/0fd52702-028a-11e6-912e-48f5116cdad5.jpg)
 
-Hi.I am Denys Kriukov, student programmer from Ukraine, you can contact with me by email [denis.kryuko@aol.com](mailto:denis.kryukov@aol.com)
+Hi.I am Denys Kriukov, student programmer from Ukraine, you can contact with me by email [denis.kryukov@aol.com](mailto:denis.kryukov@aol.com)
 I am looking opportunities to develop my skills in IT industry, find company where i can grow up in WEB-technology.
 
 # EXPERIENCE
@@ -16,7 +16,7 @@ Dnipropetrovsk — December 2014- January 2016
 
 Dnipropetrovsk — Fabruary 2016 - Present day
 
-> Support corporate managment system on [Redmine](http://www.redmine.org/) create plugins and patches for it.Integrate Redmine with internal corporate services and support system.
+> Support corporate managment system on [Redmine](http://www.redmine.org/), create plugins and patches for it.Integrate Redmine with internal corporate services and support system.
 
 # EDUCATION
 
