@@ -12,7 +12,7 @@ Dnipro — December 2014- January 2016
 
 > Maintenance company web site and transfer it from CodeIgniter to Ruby on Rails.Created RoR-based Task Manager for non profit organization.
 
-## Junior Ruby on Rails Developer - cytalk.com
+## Junior Ruby on Rails Developer - Telecom company
 
 Dnipro — Fabruary 2016 - Present day
 
