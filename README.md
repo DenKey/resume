@@ -1,7 +1,7 @@
 # Welcome to my home page
 ![I am visitor on KharkivItNonStop2015](https://cloud.githubusercontent.com/assets/9421428/14539691/0fd52702-028a-11e6-912e-48f5116cdad5.jpg)
 
-Hi.I am Denys Kriukov, student programmer from Ukraine, you can contact with me by email [denis.kryukov@aol.com](mailto:denis.kryukov@aol.com)
+Hi.I am [Denys Kriukov](https://www.linkedin.com/in/denys-kriukov), student programmer from Ukraine, you can contact with me by email [denis.kryukov@aol.com](mailto:denis.kryukov@aol.com)
 I am looking opportunities to develop my skills in IT industry, find company where i can grow up in WEB-technology.
 
 # EXPERIENCE
@@ -12,9 +12,9 @@ Dnipro — December 2014- January 2016
 
 > Maintenance company web site and transfer it from CodeIgniter to Ruby on Rails.Created RoR-based Task Manager for non profit organization.
 
-## Junior Ruby on Rails Developer - Telecom company
+## Junior Ruby on Rails Developer - Hidden Telecom company
 
-Dnipro — Fabruary 2016 - Present day
+Dnipro — Fabruary 2016 - November 2016
 
 > Support corporate managment system on [Redmine](http://www.redmine.org/), create plugins and patches for it.Integrate Redmine with internal corporate services and support system.
 
@@ -46,6 +46,13 @@ Dnipro — Fabruary 2016 - Present day
 > Pedagogy of University Teaching
 
 > Graduated with honors.
+
+## National Mining University
+**Master’s Degree — 2018**
+                                                                                                         
+> Faculty of Information Technology
+
+> Software engineering
 
 # "PET" PROJECTS
 
